@@ -1,0 +1,38 @@
+# humanstxt.org/
+
+/* TEAM */
+
+    Name: Dingyi
+    Site: http://dingyi.design
+    Designer: @dingyi
+    Developer: @dingyi
+
+    Contact: dingyi@me.com
+    Twitter: http://twitter.com/dingyi
+    Location: Beijing, China
+
+
+/* SITE */
+
+    Development Tools:
+    Photoshop CC, Sketch, Sublime Text, Espresso, Hammer for Mac
+
+    Development Languages:
+    HTML5, CSS3, SASS(scss), Javascipt
+
+    Online Services:
+    Google Fonts, Google Analytics
+
+    Server:
+    DigitalOcean
+
+    Last Updated:
+    2015/06/10 00:30 PM
+
+
+/* Components */
+
+    jQuery: http://jquery.com
+    Bourbon: http://bourbon.io/
+    Neat: http://neat.bourbon.io/
+    Ungrid: https://github.com/chrisnager/ungrid/
